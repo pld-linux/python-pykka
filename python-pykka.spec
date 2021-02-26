@@ -10,7 +10,7 @@
 Summary:	Python library that provides concurrency using actor model
 Name:		python-%{module}
 Version:	1.2.1
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://github.com/jodal/pykka/archive/v%{version}/%{module}-%{version}.tar.gz
